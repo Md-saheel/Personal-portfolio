@@ -12,7 +12,11 @@
     padding: 0;
     box-sizing: border-box;
   }
-  
+
+.box{
+  width: 406px;
+  height: 298px;
+
   body {
     font-family: 'Raleway', sans-serif;
     line-height: 1.54;
