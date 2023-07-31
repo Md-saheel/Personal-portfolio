@@ -49,7 +49,10 @@
     background-color: rgb(230, 14, 14);
   }
   
- 
+  .box{
+    width: 75%;
+  }
+
   #about {
     height: 100vh;
     background-color: #444;
@@ -244,7 +247,7 @@
   }
   
   /* SMARTPHONE */
-  @media (max-width: 884px) {
+  @media (max-width: 600px) {
     #navbar {
       padding: 0rem 1rem;
       justify-content: center;
