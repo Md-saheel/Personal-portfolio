@@ -42,6 +42,8 @@
     border-radius: 3px;
     background-color: var(--primary-color);
     transition: all .5s ease-in-out;
+    margin-left: 20px;
+    margin-right: 20px;
   }
   
   .btn:hover {
