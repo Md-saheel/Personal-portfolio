@@ -27,7 +27,7 @@ export const projects = [
   {
     name: 'Documentation Page',
     image: 'img/pro3.png',
-    link: 'https://eloquent-cassata-bfd435.netlify.app/">',
+    link: 'https://eloquent-cassata-bfd435.netlify.app/',
   },
   {
     name: 'Bootstrap Project',
