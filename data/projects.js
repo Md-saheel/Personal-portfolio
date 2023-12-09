@@ -59,4 +59,9 @@ export const projects = [
     image: 'img/pro10.png',
     link: 'https://md-saheel.github.io/Simon-Game/',
   },
+  {
+    name: 'Amazon Website',
+    image: 'img/pro13.png',
+    link: 'https://md-saheel.github.io/javascript-amazon-project-main/',
+  },
 ];
